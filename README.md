@@ -7,3 +7,8 @@ The Orchid-HyenaDNA model can be found in Orchid_and_HyenaDNA.ipynb. This notebo
 * Runtime evaluation of the 3 models on a single data point of sequence length 1024 on cpu.
 
 Note: This notebook was constructed using [HyenaDNA's colab notebook](https://hazyresearch.stanford.edu/blog/2023-06-29-hyena-dna) example as the starting point.
+
+## Orchid integration for DNA sequences
+
+* Orchid_Protein/Orchid_protein-by_seq_len.ipynb
+* Orchid_Protein/Orchid_down_stream_tasks-Copy1.ipynb
